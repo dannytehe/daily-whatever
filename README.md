@@ -18,7 +18,7 @@ daily whatever
   </tr>
   <tr>
     <td>talking about things u like</td>
-    <td>THIS IS NOT A CHAT</td>
+    <td>apsalutely NO politics</td>
   </tr>
   <tr>
     <td>talking ab things others like & giving oppionin(thoughtful ones nothing like "fr bro")</td>

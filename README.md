@@ -9,7 +9,7 @@ daily whatever
     <th>things you can't comment</th>
   </tr>
   <tr>
-    <td>talking about your hobbeies</td>
+    <td>talking about your hobbies</td>
     <td>spelling corrections(I am petty I will block u)</td>
   </tr>
   <tr>
@@ -18,10 +18,10 @@ daily whatever
   </tr>
   <tr>
     <td>talking about things u like</td>
-    <td>apsalutely NO politics</td>
+    <td>absolutely NO politics</td>
   </tr>
   <tr>
-    <td>talking ab things others like & giving oppionin(thoughtful ones nothing like "fr bro")</td>
+    <td>talking ab things others like & giving opinion(thoughtful ones nothing like "fr bro")</td>
     <td>no hate(I will block u) js don't be rude bro</td>
   </tr>
   <tr>
